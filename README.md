@@ -1,0 +1,6 @@
+1. How to create a python file, and work with it. [DONE]
+2. Basic flow of execution in python. [DONE]
+3. Printing a string vs Printing a variable. [DONE]
+4. Modifying the value of a variable in Python.  [DONE]
+5. Converting variable from one type to another, if possible. [DONE]
+6. Debugging and error in Python, and how that works. [Talk about the errors appear one by one] [DONE] 
